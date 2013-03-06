@@ -6,4 +6,5 @@ Discover network interfaces that are in promiscuous mode. For further informatio
 It currently checks for all your network interfaces and scans all subnets for promiscuous devices.
 In order to use this you need the python packages netifaces and scapy.
 To run the tool simply execute the following command as root or sudo it.
-    scapy -c promiFinder.py
+
+`scapy -c promiFinder.py`
